@@ -10,7 +10,15 @@ duration = int(input("Введите секунды >>> "))
 minute = 60
 hour = minute * 60
 day = hour * 24
-
+-------------
+------------
+---------------
+-------------
+-------------
+------------
+-----------
+---------------
+-
 if duration < minute:
     print(duration, " сек.")
 elif duration < hour:
