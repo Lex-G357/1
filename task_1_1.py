@@ -3,6 +3,9 @@
 # до часа: <m> мин <s> сек; до суток: <h> час <m> мин <s> сек;
 # * в остальных случаях: <d> дн <h> час <m> мин <s> сек.
 #
+Lj,fdbk c.lf pfgcm? xnj,s gjcvjnhtnm rfr 'nj hf,jnftn
+ну да
+
 
 duration = int(input("Введите секунды >>> "))
 
