@@ -16,14 +16,15 @@
 #
 
 our_list = ['в', '5', 'часов', '17', 'минут', 'температура', 'воздуха', 'была', '+5', 'градусов']
-print(our_list)
-print(type(our_list[2]))
-
+our_list[1] = '"05"'
+our_list[3] = '"17"'
+our_list[8] = '"+05"'
 our_list = ' '.join(our_list)
 print(our_list)
 
-print(type(our_list[2]))
-
+# print(type(our_list[2]))
+# print(our_list)
+# print(type(our_list[2]))
 #for i in range(len(our_list)):
 #    if type(our_list[i]) == int:
 
